@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <title>I LZX</title>
+    <link rel="shortcut icon" href="img/logo.ico" />
+   
+<!--
+DREAM PULSE
+https://templatemo.com/tm-536-dream-pulse
+-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="slick/slick.css"/>    
+    <link rel="stylesheet" href="slick/slick-theme.css"/>    
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/templatemo-dream-pulse.css" />
+  </head>
+  <body>
+    <main class="container-fluid">
+      <div class="row">        
+          <nav id="tmSidebar" class="tm-bg-black-transparent tm-sidebar">
+            <button class="navbar-toggler" type="button" aria-label="Toggle navigation">
+              <i class="fas fa-bars"></i>
+            </button>
+            <div class="tm-sidebar-sticky">
+              <div class="tm-brand-box">
+                <div class="tm-double-border-1">
+                  <div class="tm-double-border-2">
+                    <h1 class="tm-brand text-uppercase">LZX</h1>
+                  </div>
+                </div>
+              </div>
+
+              <ul id="tmMainNav" class="nav flex-column text-uppercase text-right tm-main-nav">
+                <li class="nav-item">
+                  <a href="#intro" class="nav-link active">
+                    <span class="d-inline-block mr-3">主页</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#about" class="nav-link">
+                    <span class="d-inline-block mr-3">公益节点</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+
+                </li>
+                <li class="nav-item">
+                  <a href="#work" class="nav-link">
+                    <span class="d-inline-block mr-3">文章</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#clients" class="nav-link">
+                    <span class="d-inline-block mr-3">捕捉</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#down" class="nav-link">
+                    <span class="d-inline-block mr-3">下载</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                    </a>
+                <li class="nav-item">
+                  <a href="#talk" class="nav-link">
+                    <span class="d-inline-block mr-3">支持</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  
+                  
+                    
+                  </a>
+                </li>
+              </ul>
+
+                </p>
+              </footer>
+            </div>
+          </nav>
+          
+          <main role="main" class="ml-sm-auto col-12">
+            <div
+              class="parallax-window"
+              data-parallax="scroll"
+              data-image-src="img/dream-pulse-header.jpg">
+              <div class="tm-section-wrap">
+                <section id="intro" class="tm-section">
+                    <div class="tm-bg-white-transparent tm-intro">
+                        <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">I LZX</h2>
+                        <p class="tm-color-gray">
+                          我，LZX，巨帅。
+                          <br> 对，巨帅，帅，帅爆了。
+                          <br> 身处祖国东南一隅，就读于某不知名学校。
+                          <br> 喜欢逛 B站。
+
+                        </p>
+                        <p class="mb-0 tm-color-gray"></p>
+                          
+                          <img src="img/hy.png" </p>
+                          
+                     <a class="nav-link tm-nav-link" href="wl.html">无聊？点这！</a>
+                     <a class="nav-link tm-nav-link" href="cd.html">更多有趣的项目</a>
+                         
+                        </p>
+                    </div>              
+                </section>
+            </div>            
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="about" class="row tm-section">
+              <div class="col-xl-6">
+                <div class="tm-section-half">    
+                    <div><i class="fas fa-6x fa-balance-mb-5 tm-section-icon"></i></div>                        
+                    <h2 class="tm-section-title tm-color-primary mb-5">公益节点</h2>
+                    <p class="mb-5">
+                      <textarea rows="2" cols="20">vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxaWCBGcmVlIFZQTiIsDQogICJhZGQiOiAibm9pc3ktY2xvdWQtNDRiOS5saXppNzk4NzMyOC53b3JrZXJzLmRldiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhZDgwNjQ4Ny0yZDI2LTQ2MzYtOThiNi1hYjg1Y2M4NTIxZjciLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyINCn0=</textarea>
+                        <textarea rows="2" cols="20">vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxaWCBGcmVlIFZQTiIsDQogICJhZGQiOiAibW9ybmluZy1mb2ctOTc2Yy5saXppNzk4NzMyOC53b3JrZXJzLmRldiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhZDgwNjQ4Ny0yZDI2LTQ2MzYtOThiNi1hYjg1Y2M4NTIxZjciLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiDQp9</textarea>
+                    
+                          </textarea>              <textarea rows="2" cols="20">vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxaWCBGcmVlIFZQTiIsDQogICJhZGQiOiAic29saXRhcnktYmxvY2stZTk4NC5saXppNzk4NzMyOC53b3JrZXJzLmRldiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhZDgwNjQ4Ny0yZDI2LTQ2MzYtOThiNi1hYjg1Y2M4NTIxZjciLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiDQp9</textarea>
+                    
+                            </textarea>              <textarea rows="2" cols="20">vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxaWCBGcmVlIFZQTiIsDQogICJhZGQiOiAiYnJvYWQtbWF0aC1iMzIxLmxpemk3OTg3MzI4LndvcmtlcnMuZGV2IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFkODA2NDg3LTJkMjYtNDYzNi05OGI2LWFiODVjYzg1MjFmNyIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIg0KfQ==</textarea>
+                    
+                              </textarea>
+                    </p>
+                    <p>
+                   </p>
+                </div>
+              </div>
+              <div class="col-xl-6">
+                <div class="tm-section-half">
+
+                    <h2 class="tm-section-title tm-color-primary mb-5">说明</h2>
+                    <p class="mb-5">
+所有节点不限速，最高可达50 Mbps！ 
+<P>如果没到50 Mbps。。。</P>
+<br>那就没到了
+<img src="img/hj.jpg" alt="Client Image" class="img-fluid tm-client-img" />
+
+                    </p>
+                    <p>
+                      如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。
+                      <a class="nav-link tm-nav-link" href="vm.html">点击前往获取更多节点</a></a></p>
+                    </p>
+                </div>
+              </div>
+            </section>
+          </div>
+
+
+            
+          <div class="tm-section-wrap bg-white">
+            <section id="work" class="row tm-section">
+              <div class="col-12">
+                <div class="w-100 tm-double-border-1 tm-border-gray">
+                    <div class="tm-double-border-2 tm-border-gray tm-box-pad">
+                      <div class="tm-gallery-wrap">
+                          <h2 class="tm-color-primary tm-section-title mb-4 ml-2">文章</h2>
+                          <li class="nav-item">
+                            <a class="nav-link tm-nav-link" href="heroku.html">heroku搭v2ray</a></a>
+                          
+
+                          <div class="tm-gallery">
+                            <div class="tm-gallery-item">                        
+                              <figure class="effect-bubba">
+
+                                </figcaption>
+                              </figure>
+                            </div>
+                          </div>
+                      </div>                        
+                    </div>                  
+                  </div>     
+              </div>         
+            </section>
+          </div>
+            
+          <div class="tm-section-wrap bg-white">
+            <section id="clients" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">捕捉</h2>
+                          <p class="mb-5">
+
+
+                          </p>
+                          <p>
+
+
+
+                          </p>
+                      </div>
+                      
+                      <div class="row tm-clients-images">
+                        <div class="col-xl-3 col-lg-6 col-md-4 col-sm-6 tm-img-wrap">
+                          <a href="http://wpa.qq.com/msgrd?v=3&uin=2914009469&site=qq&menu=yes">
+                            <img src="img/client-1.png" alt="Client Image" class="img-fluid tm-client-img" />
+                          </a>                          
+                        </div>
+                        <div class="col-xl-3 col-lg-6 col-md-4 col-sm-6 tm-img-wrap">
+                          <a href="https://github.com/xzcsda465">
+                            <img src="img/client-2.png" alt="Client Image" class="img-fluid tm-client-img" />
+                          </a>                          
+                        </div>
+   
+   
+   
+                        <div class="tm-section-wrap bg-white">
+                          <section id="down" class="row tm-section">
+                            <div class="col-12 tm-section-pad">
+                                <div class="tm-flex-item-left">
+                                    <div class="tm-w-80">
+                                        <h2 class="tm-color-primary tm-section-title mb-4">下载</h2>
+                                        <p class="mb-5">
+                                          <br>要下载v2ray才能使用公益节点哦
+                                          <a class="nav-link tm-nav-link" href="v2ray.html">下载</a></a></p>
+                                          <br>SSR下载
+                                          <a class="nav-link tm-nav-link" href="ssr.html">下载</a></a></p>
+                                          
+                          </div>
+                      </div>
+                  </div> 
+              </div>                             
+            </section>
+          </div>
+            
+          <div class="tm-section-wrap bg-white">
+            <section id="talk" class="row tm-section">
+                <div class="col-xl-6 mb-5">
+                  <div class="tm-double-border-1 tm-border-gray">
+                    <div class="tm-double-border-2 tm-border-gray tm-box-pad">
+                        <h2 class="tm-color-primary tm-section-title mb-4">支持</h2>
+                        <p class="mb-4">
+                          <div class="donate-img-box">
+                            <img src="img/qq.png" height="200" width="200" />
+                            <div class="donate-img-box">
+                              <img src="img/zfb.png" height="200" width="200" />    
+                                  <a class="nav-link tm-nav-link" href="abouut.html">点击前往新网站</a>
+                        </p>
+                        
+                          
+                         
+                          
+                        </p>
+                    </div>                    
+                  </div>                  
+                </div>
+          
+              
+                          </button>
+                        </div>
+                        
+    
+                      </form>
+                     
+                  </div>  
+<footer>
+    <ul>
+      <li>2020 By LZX</li>
+      
+    </ul>
+  </footer>                  
+                </div>
+              </section>
+            
+          </div>
+        </main>        
+      </div>
+  
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.singlePageNav.min.js"></script>
+    <script src="js/parallax.min.js"></script>
+    <script src="slick/slick.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/templatemo-scripts.js"></script>
+  </body>
+</html>
